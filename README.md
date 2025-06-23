@@ -18,7 +18,8 @@ A React Native app to manage student attendance for temple sessions using studen
 ---
 
 ## 📲 Demo Video  
-[▶️ Click to Watch Demo Video on Google Drive]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1Y5UUxgEM5XD70WEWcCeMjxUTvrjlDFBD/view?usp=drivesdk))  
+[▶️ Click to Watch Demo Video on Google Drive](https://drive.google.com/file/d/1Y5UUxgEM5XD70WEWcCeMjxUTvrjlDFBD/view?usp=drivesdk)
+
 
 ---
 
