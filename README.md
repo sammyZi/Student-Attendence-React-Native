@@ -10,10 +10,9 @@ A simple HTML-based web app to manage student attendance for temple sessions usi
 - 👁️ View student list
 - ✏️ Edit student details
 - 🗑️ Delete students
-- 📅 Mark attendance per Sunday by card number
+- 📅 Mark attendance by card number
 - 📖 View individual student details and attendance history
-- 📘 Register Book to view all students' attendance
-- 📸 Screenshot available for each page
+- 📘 Register Book to view all student's attendance
 
 ---
 
