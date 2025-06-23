@@ -17,27 +17,7 @@ A simple HTML-based web app to manage student attendance for temple sessions usi
 
 ---
 
-## 📂 Pages with Screenshots
-
-### 🔐 Login Page
-![Login Page](./screenshots/login.png)
-
-### ➕ Add Student
-![Add Student](./screenshots/add-student.png)
-
-### 👁️ View Student List
-![Student List](./screenshots/student-list.png)
-
-### ✏️ Edit / 🗑️ Delete Student
-![Edit Student](./screenshots/edit-student.png)
-
-### 📅 Mark Attendance
-![Attendance Page](./screenshots/attendance.png)
-
-### 📖 Student Details
-![Student Details](./screenshots/student-details.png)
-
-### 📘 Register Book
-![Register Book](./screenshots/register-book.png)
+## 🎥 **Watch a full walkthrough of the app:**  
+[▶️ Click to Watch Demo Video](./demo/demo.mp4)
 
 ---
