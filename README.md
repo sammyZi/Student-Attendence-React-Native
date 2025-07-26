@@ -1,6 +1,6 @@
 # 🛕 Student Attendance App (React Native)
 
-A React Native app to manage student attendance for temple sessions using student card numbers and date selection.
+A React Native app to manage student attendance for sessions using student card numbers and date selection.
 
 ---
 
